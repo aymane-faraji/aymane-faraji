@@ -33,14 +33,14 @@
 ##  Professional Experience
 
 ### **Microbiology Intern**
-**National Institute of Hygiene (INH)** | *Rabat* 🗓 *July 2025 - August 2025*
+**National Institute of Hygiene (INH)** | *Rabat*  *July 2025 - August 2025*
 * **Pathogen Identification:** Performed bacterial culture, isolation, and identification of pathogenic microorganisms.
 * **Molecular Detection:** Utilized conventional PCR, qPCR, and FilmArray technology for rapid pathogen identification (including detection of OXA-48 genes).
 * **Lab Techniques:** Conducted Gram staining and used API identification kits for bacterial characterization.
 * **Quality Control:** Participated in laboratory quality management, inventory control, and QC using reference strains.
 
 ### **Final-Year Project Internship (Immunology)**
-**Al Atlas Laboratory** | *Marrakech* 🗓 *May 2024 - June 2024*
+**Al Atlas Laboratory** | *Marrakech*  *May 2024 - June 2024*
 * **Project:** Detection of Autoimmune Diseases by Immunofluorescence.
 * **Analysis:** Analyzed and interpreted fluorescent signals to identify specific patterns and compare samples.
 * **Sample Handling:** Processed clinical specimens including whole blood, serum, and plasma, and performed bacterial strain cultures from patient samples.
