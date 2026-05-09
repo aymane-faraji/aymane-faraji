@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Aymane Faraji 👋
+# Hi there, I'm Aymane Faraji 
 
-### 🧬 Bio-Innovation Master's Student | 🔬 Bioinformatics & Genomic | Microbial & Molecular biology
+###  Bio-Innovation Master's Student | 🔬 Bioinformatics & Genomic | Microbial & Molecular biology
 
 *Bridging the gap between biological analysis and genomic data science.*
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### **Microbiology Intern**
 **National Institute of Hygiene (INH)** | *Rabat* 🗓 *July 2025 - August 2025*
@@ -48,7 +48,7 @@
 
 ---
 
-## 🧬 Featured Project
+##  Featured Project
 
 ### **SARS-CoV-2 Genomic and Transcriptomic Analysis**
 * **Data Source:** Analyzed publicly available SARS-CoV-2 datasets (NCBI/GEO).
@@ -57,7 +57,7 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### **Master's Degree: Valorization and Management of Innovation in Biosciences**
 **Faculty of Sciences and Techniques (FST)** | *Settat* 🗓 *2024 - 2026*
@@ -69,7 +69,7 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 | Certification | Platform |
 | :--- | :--- |
