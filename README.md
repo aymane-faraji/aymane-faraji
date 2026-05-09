@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aymane Faraji 
 
-###  Bio-Innovation Master's Student | 🔬 Bioinformatics & Genomic | Microbial & Molecular biology
+###  Bio-Innovation Master's Student |  Bioinformatics & Genomic | Microbial & Molecular biology
 
 *Bridging the gap between biological analysis and genomic data science.*
 
@@ -60,11 +60,11 @@
 ##  Education
 
 ### **Master's Degree: Valorization and Management of Innovation in Biosciences**
-**Faculty of Sciences and Techniques (FST)** | *Settat* 🗓 *2024 - 2026*
+**Faculty of Sciences and Techniques (FST)** | *Settat*  *2024 - 2026*
 * **Key Modules:** Human biology and physiopathology, Preclinical biological testing, Advanced biotechnology, Instrumental analysis techniques, Project management, Marketing and innovation valorization.
 
 ### **Bachelor's Degree: Science and Technology - Medical Bioanalysis**
-**Faculty of Sciences and Techniques (FST)** | *Marrakech* 🗓 *2021 - 2024*
+**Faculty of Sciences and Techniques (FST)** | *Marrakech*  *2021 - 2024*
 * **Key Modules:** Cell and molecular biology, Genetics, Microbiology, Immunology, Biostatics.
 
 ---
