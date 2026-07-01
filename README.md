@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aymane Faraji 
 
-###  Bio-Innovation Master's Student |  Bioinformatics & Genomic | Microbial & Molecular biology
+### Bio-Innovation Master's Student | Bioinformatics & Genomic | Microbial & Molecular biology
 
 *Bridging the gap between biological analysis and genomic data science.*
 
@@ -30,7 +30,15 @@
 
 ---
 
-##  Professional Experience
+## Professional Experience
+
+### **Graduation Project Intern (PFE)**
+**Regenerative Medicine Center (CMR)** | *Marrakech*  *February 2026 - June 2026*
+* **Cell Culture:** Cultured MSCs (Mesenchymal Stem Cells) and fibroblasts, including handling trypsinization, passaging, and morphological monitoring.
+* **Serum Alternative Evaluation:** Evaluated platelet lysate as a sustainable alternative to FBS (Fetal Bovine Serum) in cell culture media.
+* **Flow Cytometry:** Analyzed and interpreted cell viability data derived from flow cytometry.
+* **Blood Product Processing:** Prepared PRP (Platelet-Rich Plasma), PPP (Platelet-Poor Plasma), and platelet lysate from residual blood samples.
+* **Biomaterials & Tissue Repair:** Formulated secondary agarose–PPP hydrogels optimized for wound healing and tissue regeneration.
 
 ### **Microbiology Intern**
 **National Institute of Hygiene (INH)** | *Rabat*  *July 2025 - August 2025*
@@ -48,7 +56,7 @@
 
 ---
 
-##  Featured Project
+## Featured Project
 
 ### **SARS-CoV-2 Genomic and Transcriptomic Analysis**
 * **Data Source:** Analyzed publicly available SARS-CoV-2 datasets (NCBI/GEO).
@@ -57,7 +65,7 @@
 
 ---
 
-##  Education
+## Education
 
 ### **Master's Degree: Valorization and Management of Innovation in Biosciences**
 **Faculty of Sciences and Techniques (FST)** | *Settat*  *2024 - 2026*
@@ -69,7 +77,7 @@
 
 ---
 
-##  Certifications
+## Certifications
 
 | Certification | Platform |
 | :--- | :--- |
