@@ -1,92 +1,89 @@
 <div align="center">
 
-# Hi there, I'm Aymane Faraji 
+# Hi there, I'm Aymane Faraji[cite: 1]
 
-### Bio-Innovation Master's Student | Bioinformatics & Genomic | Microbial & Molecular biology
+### Bio-Innovation Master's Student | Bioinformatics & Genomics | Microbial & Molecular Biology[cite: 1]
 
-*Bridging the gap between biological analysis and genomic data science.*
+*Bridging wet-lab expertise with dry-lab innovation.*[cite: 1]
 
-📍 **Essaouira, Morocco** • 📧 **aymanefaraji1@gmail.com** • 📞 **0777526655**
+📍 **Essaouira, Morocco** • 📧 **aymanefaraji1@gmail.com** • 📞 **0777526655**[cite: 1]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymane_Faraji-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymanefaraji/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](#)[cite: 1]
 
 ---
 
 ### 🛠 Tech Stack & Skills
 
-<img src="https://img.shields.io/badge/Python-Genomics-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-Data_Science-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/PyMOL-Visualization-A5D6A7?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Genomics_&_Pandas-3776AB?style=flat-square&logo=python&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/R-DESeq2_&_limma-276DC3?style=flat-square&logo=r&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Bash-Linux-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Nextflow-nf--core-23AA62?style=flat-square&logoColor=white" />[cite: 1]
 
-<img src="https://img.shields.io/badge/Microbiology-Bacterial_Culture-000000?style=flat-square&logo=microscope&logoColor=white" />
-<img src="https://img.shields.io/badge/Molecular_Bio-PCR_&_qPCR-4B8BBE?style=flat-square&logo=dna&logoColor=white" />
-<img src="https://img.shields.io/badge/Immunology-ELISA_&_Western_Blot-F7DF1E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Cell_Culture-MSCs_&_Fibroblasts-000000?style=flat-square&logo=microscope&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Molecular_Bio-PCR_&_qPCR-4B8BBE?style=flat-square&logo=dna&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Biomaterials-PRP_&_Hydrogels-F7DF1E?style=flat-square&logoColor=black" />[cite: 1]
 
-<img src="https://img.shields.io/badge/Arabic-Native-green?style=flat-square" />
-<img src="https://img.shields.io/badge/French-Fluent-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/English-Fluent-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Arabic-Native-green?style=flat-square" />[cite: 1]
+<img src="https://img.shields.io/badge/French-Fluent-blue?style=flat-square" />[cite: 1]
+<img src="https://img.shields.io/badge/English-Fluent-red?style=flat-square" />[cite: 1]
 
 </div>
 
 ---
 
-## Professional Experience
+## 💻 Bioinformatics Projects
 
-### **Graduation Project Intern (PFE)**
-**Regenerative Medicine Center (CMR)** | *Marrakech*  *February 2026 - June 2026*
-* **Cell Culture:** Cultured MSCs (Mesenchymal Stem Cells) and fibroblasts, including handling trypsinization, passaging, and morphological monitoring.
-* **Serum Alternative Evaluation:** Evaluated platelet lysate as a sustainable alternative to FBS (Fetal Bovine Serum) in cell culture media.
-* **Flow Cytometry:** Analyzed and interpreted cell viability data derived from flow cytometry.
-* **Blood Product Processing:** Prepared PRP (Platelet-Rich Plasma), PPP (Platelet-Poor Plasma), and platelet lysate from residual blood samples.
-* **Biomaterials & Tissue Repair:** Formulated secondary agarose–PPP hydrogels optimized for wound healing and tissue regeneration.
+### **Transcriptomic Reanalysis of MSCs Cultured with FBS vs Human Platelet Lysate**[cite: 1]
+* **Data & Tools:** Reanalyzed a public dataset (GEO GSE194298) of 16 samples using R and limma[cite: 1].
+* **Methodology:** Accounted for culture condition and cell passage, identifying 1,608 differentially expressed genes with FDR correction[cite: 1]. 
+* **Findings:** Interpreted GO and KEGG pathways related to extracellular-matrix organization, wound healing, and cytokine signaling[cite: 1].
 
-### **Microbiology Intern**
-**National Institute of Hygiene (INH)** | *Rabat*  *July 2025 - August 2025*
-* **Pathogen Identification:** Performed bacterial culture, isolation, and identification of pathogenic microorganisms.
-* **Molecular Detection:** Utilized conventional PCR, qPCR, and FilmArray technology for rapid pathogen identification (including detection of OXA-48 genes).
-* **Lab Techniques:** Conducted Gram staining and used API identification kits for bacterial characterization.
-* **Quality Control:** Participated in laboratory quality management, inventory control, and QC using reference strains.
+### **RNA-seq Analysis of Escherichia coli WT versus ΔslyA**[cite: 1]
+* **Workflow:** Built an end-to-end bacterial RNA-seq pipeline using FastQC, MultiQC, fastp, HISAT2, samtools, featureCounts, and DESeq2[cite: 1].
+* **Metrics:** Achieved 96–98% alignment rates and generated gene-level count matrices[cite: 1].
+* **Findings:** Identified ~319 differentially expressed genes to interpret bacterial regulation context[cite: 1].
 
-### **Final-Year Project Internship (Immunology)**
-**Al Atlas Laboratory** | *Marrakech*  *May 2024 - June 2024*
-* **Project:** Detection of Autoimmune Diseases by Immunofluorescence.
-* **Analysis:** Analyzed and interpreted fluorescent signals to identify specific patterns and compare samples.
-* **Sample Handling:** Processed clinical specimens including whole blood, serum, and plasma, and performed bacterial strain cultures from patient samples.
-* **Equipment & Tests:** Used biomedical analyzers (biochemistry, hematology, serology) and performed immunological testing (ELISA, agglutination assays, rheumatoid factor testing).
+### **SARS-CoV-2 Viral Genomics Analysis**[cite: 1]
+* **Workflow:** Executed a reproducible viral genomics workflow using Nextflow and nf-core/viralrecon for QC, mapping, and variant calling[cite: 1].
+* **Tools:** Called variants with iVar, annotated with SnpEff, and assigned clades using Pangolin and Nextclade[cite: 1].
+* **Visualization:** Explored and visualized variant metrics downstream using R and ggplot2[cite: 1].
 
 ---
 
-## Featured Project
+## 🔬 Professional Experience
 
-### **SARS-CoV-2 Genomic and Transcriptomic Analysis**
-* **Data Source:** Analyzed publicly available SARS-CoV-2 datasets (NCBI/GEO).
-* **Methodology:** Performed sequence alignment and mutation profiling to study viral variability.
-* **Findings:** Identified conserved regions and mutations relevant to viral pathogenicity.
+### **Final-Year Internship – Cell Culture & Biomaterials**[cite: 1]
+**Centre for Regenerative Medicine (CMR)** | *Marrakech* | *Feb 2026 - Jun 2026*[cite: 1]
+* Cultured mesenchymal stromal cells and fibroblasts, performing trypsinization, subculture, and morphological monitoring[cite: 1].
+* Evaluated human platelet lysate as an alternative to FBS in cell culture media[cite: 1].
+* Prepared PRP, PPP, and platelet lysate from residual blood samples and formulated agarose-PPP hydrogels for tissue repair[cite: 1].
+* Interpreted flow cytometry data for cell viability analysis[cite: 1].
+
+### **Master’s Intern in Microbiology**[cite: 1]
+**National Institute of Hygiene (INH)** | *Rabat* | *Jul 2025 - Aug 2025*[cite: 1]
+* Performed bacterial culture, isolation, DNA extraction, and molecular detection (conventional PCR, qPCR, FilmArray)[cite: 1].
+* Identified bacteria using Gram staining and API galleries while participating in microbiological quality control[cite: 1].
+
+### **Final-Year Internship - Autoimmune Disease Detection**[cite: 1]
+**Al Atlas Laboratory** | *Marrakech* | *May 2024 - Jun 2024*[cite: 1]
+* Analyzed fluorescent signals to identify autoimmune patterns via indirect immunofluorescence tests[cite: 1].
+* Handled whole blood, serum, and plasma for ELISA, agglutination, and rheumatoid factor testing[cite: 1].
 
 ---
 
-## Education
+## 🎓 Education
 
-### **Master's Degree: Valorization and Management of Innovation in Biosciences**
-**Faculty of Sciences and Techniques (FST)** | *Settat*  *2024 - 2026*
-* **Key Modules:** Human biology and physiopathology, Preclinical biological testing, Advanced biotechnology, Instrumental analysis techniques, Project management, Marketing and innovation valorization.
-
-### **Bachelor's Degree: Science and Technology - Medical Bioanalysis**
-**Faculty of Sciences and Techniques (FST)** | *Marrakech*  *2021 - 2024*
-* **Key Modules:** Cell and molecular biology, Genetics, Microbiology, Immunology, Biostatics.
+* **Master’s Degree in Valorization and Management of Innovation in Biosciences** | *FST Settat* (2024 - 2026)[cite: 1]
+* **Bachelor’s Degree in Science and Technology, Medical Bioanalysis** | *FST Marrakech* (2021 - 2024)[cite: 1]
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | Certification | Platform |
 | :--- | :--- |
-| **Python for Genomics** | Coursera |
-| **R for Data Science** | IBM |
-| **Genome Assembly & Annotation (Prokaryote & Eukaryote)** | Udemy |
-
----
-
-<div align="center">
-<i>"Bridging wet-lab expertise with dry-lab innovation."</i>
-</div>
+| **Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets**[cite: 1] | FutureLearn[cite: 1] |
+| **Python for Genomics**[cite: 1] | Coursera[cite: 1] |
+| **R for Data Science**[cite: 1] | IBM[cite: 1] |
+| **Learn Genome Assembly & Annotation in Prokaryote & Eukaryote**[cite: 1] | Udemy[cite: 1] |
